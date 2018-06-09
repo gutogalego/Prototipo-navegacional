@@ -1,11 +1,27 @@
-#texto-preto {
-  color:  black;
+.col-black{
+    color: #000 !important;
 }
-
-#texto-azul {
-  color:  #000080 !important;
+.col-white{
+    color: #fff !important;
 }
-
+.col-green{
+    color: #00FF00 !important;
+}
+.col-red{
+    color: #FF0000 !important;
+}
+.col-blue{
+    color: #0000FF !important;
+}
+.col-purple{
+    color: #FF00FF !important;
+}
+.col-cyan{
+    color: #00FFFF !important;
+}
+.col-yellow{
+    color: #FFFF00 !important;
+}
 .font-10{
     font-size: 10px !important;
 }
