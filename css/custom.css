@@ -1,3 +1,4 @@
+/*Cores dos Textos*/
 .col-black{
     color: #000 !important;
 }
@@ -22,6 +23,34 @@
 .col-yellow{
     color: #FFFF00 !important;
 }
+
+/*Cores de Fundo*/
+.bg-black{
+    background-color: #000 !important;
+}
+.bg-white{
+    background-color: #fff !important;
+}
+.bg-green{
+    background-color: #00FF00 !important;
+}
+.bg-red{
+    background-color: #FF0000 !important;
+}
+.bg-blue{
+    background-color: #0000FF !important;
+}
+.bg-purple{
+    background-color: #FF00FF !important;
+}
+.bg-cyan{
+    background-color: #00FFFF !important;
+}
+.bg-yellow{
+    background-color: #FFFF00 !important;
+}
+
+/*Tamanho dos Textos*/
 .font-10{
     font-size: 10px !important;
 }
