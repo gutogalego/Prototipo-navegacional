@@ -14,7 +14,7 @@ $(document).ready(function(){
     var sNDef = $('#s-n-def');
 
     // Seção Ocultas por padrão
-    secTDef.hide();
+    // secTDef.hide();
     secTNDef.hide();
 
     // Tratamento de eventos
