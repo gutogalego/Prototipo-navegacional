@@ -47,6 +47,21 @@
 .col-amber{
     color: #FFC107 !important;
 }
+.col-orange{
+    color: #FF9800 !important;
+}
+.col-deep-orange{
+    color: #FF5722 !important;
+}
+.col-brown{
+    color: #795548 !important;
+}
+.col-grey{
+    color: #9E9E9E !important;
+}
+.col-blue-grey{
+    color: #607D8B !important;
+}
 
 /*Cores de Fundo*/
 .bg-black{
@@ -97,6 +112,21 @@
 .bg-amber{
     background-color: #FFC107 !important;
 }
+.bg-orange{
+    background-color: #FF9800 !important;
+}
+.bg-deep-orange{
+    background-color: #FF5722 !important;
+}
+.bg-brown{
+    background-color: #795548 !important;
+}
+.bg-grey{
+    background-color: #9E9E9E !important;
+}
+.bg-blue-grey{
+    background-color: #607D8B !important;
+}
 
 /*Tamanho dos Textos*/
 .font-10{
@@ -128,4 +158,9 @@
 }
 .font-100{
     font-size: 100px !important;
+}
+
+/* Cursores */
+.cursor-pointer{
+    cursor: pointer;
 }
